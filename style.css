@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu&display=swap');
+
+
+#title{
+    background-color: black;
+    color: #fff;
+}
+
+.nav-item{
+    padding: 0 18px !important; 
+
+  
+    
+}
+.download-button{
+    margin: 5% 3% 5% 0%;}
+
+.container{
+    background-color: black;
+}
+#specie{
+    background-color: black;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+    color: #fff;
+}
+.specie-image{
+    
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    box-shadow:0px 0px 100px 10px darkorange;
+}
+#pricing{
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+
+}
+.card-body{
+    height: 270px;
+}
+.panda{
+    color: white;
+    background-color: black;
+}
+.hub{
+    color: black;
+    background-color: darkorange;
+}
+
+#footer{
+    text-align: center;
+    margin: auto;
+    height: 70px;
+
+
+}
+
+
+.footer-nest{
+    margin-top: 70px;
+    
+}
+
+.foot{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 17px;
+
+}
